@@ -104,6 +104,39 @@
                     "Line": "40"
                 }
             ]
+        },
+    {
+    "id":"1163",
+            "Type": "Pick",
+            "Items": [
+                {
+                    "Name": "Wallet",
+                    "ItemCode": "002",
+                    "Quantity": "2",
+                    "Location": "MAIN",
+                    "Line": "40"
+                },
+                {
+                    "Name": "Coffee",
+                    "ItemCode": "005",
+                    "Quantity": "4",
+                    "Location": "MAIN",
+                    "Line": "30"
+                }
+            ]
+        },
+        {
+            "id":"1313",
+            "Type": "Pick",
+            "Items": [
+                {
+                    "Name": "Mug",
+                    "ItemCode": "006",
+                    "Quantity": "1",
+                    "Location": "MAIN",
+                    "Line": "20"
+                }
+            ]
         }
         
     
