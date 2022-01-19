@@ -42,5 +42,71 @@
     }
 ],
 "orders": [
+    
+    
+        {
+            "id": "1243",
+            "Type": "Pick",
+            "Items": [
+                {
+                    "Name": "LipStick",
+                    "ItemCode": "001",
+                    "Quantity": "4",
+                    "Location": "MAIN",
+                    "Line": "10"
+                },
+                {
+                    "Name": "Wallet",
+                    "ItemCode": "002",
+                    "Quantity": "2",
+                    "Location": "MAIN",
+                    "Line": "20"
+                },
+                {
+                    "Name": "Coffee",
+                    "ItemCode": "005",
+                    "Quantity": "4",
+                    "Location": "MAIN",
+                    "Line": "30"
+                },
+                {
+                    "Name": "Mug",
+                    "ItemCode": "006",
+                    "Quantity": "1",
+                    "Location": "MAIN",
+                    "Line": "40"
+                }
+            ]
+        },
+         {
+            "id": "1113",
+            "Type": "Pick",
+            "Items": [
+                {
+                    "Name": "Conditioner",
+                    "ItemCode": "004",
+                    "Quantity": "4",
+                    "Location": "MAIN",
+                    "Line": "50"
+                },
+                {
+                    "Name": "Coffee",
+                    "ItemCode": "005",
+                    "Quantity": "4",
+                    "Location": "MAIN",
+                    "Line": "30"
+                },
+                {
+                    "Name": "Mug",
+                    "ItemCode": "006",
+                    "Quantity": "1",
+                    "Location": "MAIN",
+                    "Line": "40"
+                }
+            ]
+        }
+        
+    
+
 ]
 }
